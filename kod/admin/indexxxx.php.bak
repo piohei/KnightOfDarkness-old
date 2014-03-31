@@ -1,0 +1,23 @@
+<html>
+<link rel=stylesheet href="/style.css" type="text/css">
+<body bgcolor='#000000'>
+	<center>
+	<?PHP
+		include "../funkcjeBazy.php";
+		otworz_polaczenie();
+	?>
+	<TABLE ALIGN="left" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100%">
+	<TR ALIGN="right">
+		<TH bgcolor='#808080' VALIGN="middle" WIDTH="10%">MENU:</TH>
+		<TH bgcolor='#808080' VALIGN="middle" WIDTH="90%">[PANEL ADMINISTRACYJNY] zalogowany : <? print $REMOTE_USER; ?><a href= '/index.php'><FONT SIZE="2" color="blue">[wyloguj]</FONT></a></TH>
+	</TR>
+	<TR ALIGN="center" VALIGN="top">
+		<TD>
+			<br><a href= 'ksiestwa.php'><FONT SIZE="3">GRACZE</FONT></a>
+		</TD>
+		<TD>
+		</TD>
+	</TR>
+	</TABLE>
+</body>
+</html>

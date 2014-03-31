@@ -1,0 +1,5 @@
+<?php /* Smarty version 2.6.11, created on 2010-07-29 05:28:12
+         compiled from panel.messagebox.tpl */ ?>
+<?php echo '<table cellpadding="0" cellspacing="0" border="0" style="width: 100%; height: 400px"><tr><td align="center" valign="middle">';  $_from = $this->_tpl_vars['_MESSAGE']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }if (count($_from)):
+    foreach ($_from as $this->_tpl_vars['message']):
+ echo '';  if ($this->_tpl_vars['message']['type'] == 'ERROR'):  echo '<p class="MessageError">';  echo $this->_tpl_vars['message']['text'];  echo '</p>';  elseif ($this->_tpl_vars['message']['type'] == 'INFO'):  echo '<p class="MessageInfo">';  echo $this->_tpl_vars['message']['text'];  echo '</p>';  else:  echo '';  echo $this->_tpl_vars['message']['text'];  echo '';  endif;  echo '';  endforeach; endif; unset($_from);  echo '<br><a href="';  echo $_SERVER['HTTP_REFERER'];  echo '" style="font-size: 120%; font-weight: bold">&laquo;&nbsp;powrót</a></td></tr></table>'; ?>

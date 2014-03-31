@@ -1,0 +1,9 @@
+<?php /* Smarty version 2.6.11, created on 2010-07-22 17:48:33
+         compiled from upload.tpl */ ?>
+<?php echo '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2"><title>Zarządzanie plikami</title><link rel="stylesheet" type="text/css" href="';  echo $this->_tpl_vars['style_dir'];  echo 'main_style.css"></head><body><table align="center" style="border:1px #715E46 solid"><tr><td align="center">';  $_smarty_tpl_vars = $this->_tpl_vars;
+$this->_smarty_include(array('smarty_include_tpl_file' => "message.tpl", 'smarty_include_vars' => array()));
+$this->_tpl_vars = $_smarty_tpl_vars;
+unset($_smarty_tpl_vars);
+  echo '</td></tr>';  $_from = $this->_tpl_vars['files']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }if (count($_from)):
+    foreach ($_from as $this->_tpl_vars['id'] => $this->_tpl_vars['file_name']):
+ echo '<tr align="center"><td style="border-bottom:1px #715E46 solid"><img src="';  echo $this->_tpl_vars['CFG']->upload_dir;  echo '';  echo $this->_tpl_vars['file_name'];  echo '"><br>Kod: [';  echo $this->_tpl_vars['id'];  echo ']<br><a href="';  echo $this->_tpl_vars['CFG']->adresSerwera;  echo 'upload/upload.php?id=';  echo $this->_tpl_vars['id'];  echo '">usuń</a></td></tr>';  endforeach; endif; unset($_from);  echo '<tr align="center"><td style="font: 11px Verdana, Geneva, Arial, Helvetica, sans-serif;color: #A3A3A1;"><form method="post" action="upload.php" enctype="multipart/form-data"><input type="hidden" name="MAX_FILE_SIZE" value="30000"><input type="file" name="file" size="10" class="textFieldType1">&nbsp;<input type="submit" value="Wgraj plik"class="button"></form>Aby wstawić obrazek do opisu koalicji, albo do wiadomości użyj w treści kod-u obrazka. Jezeli zmienisz obrazek już po napisaniu tekstu obrazek w nim też sie zmieni.</td></tr></table></body></html>'; ?>

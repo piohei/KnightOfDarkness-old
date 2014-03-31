@@ -1,0 +1,3 @@
+Konfiguracja bazy danych znajduje sie pliku ShoutBoxDBMysql.class.php w metodzie MysqlConnect.
+Mozna rowniez przekazac wlasny uchwyt polaczenia do bazy danych w konstruktorze sterownika bazy danych (ShoutBoxDBMysql).
+Nie bedzie wowczas wykonywane polaczenie z baza.

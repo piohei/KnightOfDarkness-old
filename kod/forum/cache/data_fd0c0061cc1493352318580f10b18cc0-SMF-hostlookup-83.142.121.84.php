@@ -1,0 +1,1 @@
+<?php if (!defined('SMF')) die; if (1290367974 < time()) $expired = true; else{$expired = false; $value = 's:34:"083142121084.ittp.media-com.com.pl";';}?>

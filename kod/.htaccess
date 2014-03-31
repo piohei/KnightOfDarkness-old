@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.kod-online.pl$
+RewriteRule ^(.*) http://kod-online.pl/$1 [QSA,L,R=301]]
+
+RewriteCond %{REQUEST_URI} ^\/index.php$
+RewriteCond %{QUERY_STRING} ^$
+RewriteRule ^(.*)$ http://kod-online.pl/ [L,R=301]

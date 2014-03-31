@@ -1,0 +1,361 @@
+[21-Jul-2010 09:01:56] PHP Warning:  require_once(../lib/class.User.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/login/check.php on line 4
+[21-Jul-2010 09:01:56] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../lib/class.User.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/login/check.php on line 4
+[21-Jul-2010 09:05:07] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 38
+[21-Jul-2010 09:05:07] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:05:07] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:05:07] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:05:07] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:05:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 109
+[21-Jul-2010 09:05:07] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[21-Jul-2010 09:05:07] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[21-Jul-2010 09:05:07] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[21-Jul-2010 09:05:07] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 111
+[21-Jul-2010 09:05:07] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[21-Jul-2010 09:05:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 113
+[21-Jul-2010 09:09:37] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 38
+[21-Jul-2010 09:09:37] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:09:37] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:09:37] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:09:37] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:09:37] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 116
+[21-Jul-2010 09:09:37] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 116
+[21-Jul-2010 09:09:37] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 116
+[21-Jul-2010 09:09:37] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[21-Jul-2010 09:09:37] PHP Notice:  Undefined index:  reason in /home/kod2010/public_html/login/niezalogowany.php on line 17
+[21-Jul-2010 09:10:52] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 38
+[21-Jul-2010 09:10:52] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:10:52] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:10:52] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:10:52] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:10:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 109
+[21-Jul-2010 09:10:52] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[21-Jul-2010 09:10:52] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[21-Jul-2010 09:10:52] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[21-Jul-2010 09:10:52] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 111
+[21-Jul-2010 09:10:52] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[21-Jul-2010 09:10:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 113
+[21-Jul-2010 09:12:19] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 38
+[21-Jul-2010 09:12:19] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:12:19] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:12:19] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:12:19] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:13:00] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 38
+[21-Jul-2010 09:13:00] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:13:00] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:13:00] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:13:00] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[21-Jul-2010 09:13:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 109
+[21-Jul-2010 09:13:00] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[21-Jul-2010 09:13:00] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[21-Jul-2010 09:13:00] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[21-Jul-2010 09:13:00] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 111
+[21-Jul-2010 09:13:00] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[21-Jul-2010 09:13:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 03:30:14] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 38
+[22-Jul-2010 03:30:14] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[22-Jul-2010 03:30:14] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[22-Jul-2010 03:30:14] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[22-Jul-2010 03:30:14] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[22-Jul-2010 03:30:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 109
+[22-Jul-2010 03:30:15] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 03:30:15] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 03:30:15] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 03:30:15] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 03:30:15] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 03:30:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 03:40:10] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 38
+[22-Jul-2010 03:40:10] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[22-Jul-2010 03:40:10] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[22-Jul-2010 03:40:10] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[22-Jul-2010 03:40:10] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[22-Jul-2010 03:40:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 109
+[22-Jul-2010 03:40:10] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 03:40:10] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 03:40:10] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 03:40:10] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 03:40:10] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 03:40:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 03:41:27] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 38
+[22-Jul-2010 03:41:27] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[22-Jul-2010 03:41:27] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[22-Jul-2010 03:41:27] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[22-Jul-2010 03:41:27] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[22-Jul-2010 03:41:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 109
+[22-Jul-2010 03:41:27] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 03:41:27] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 03:41:27] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 03:41:27] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 03:41:27] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 03:41:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 05:13:00] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 38
+[22-Jul-2010 05:13:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 109
+[22-Jul-2010 05:13:00] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 05:13:00] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 05:13:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 05:13:48] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 38
+[22-Jul-2010 05:13:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 109
+[22-Jul-2010 05:13:48] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 05:13:48] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 05:13:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 05:49:04] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 38
+[22-Jul-2010 05:49:04] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[22-Jul-2010 05:49:04] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[22-Jul-2010 05:49:04] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[22-Jul-2010 05:49:04] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 50
+[22-Jul-2010 05:49:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 109
+[22-Jul-2010 05:49:04] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 05:49:04] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 05:49:04] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 05:49:04] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 05:49:04] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 05:49:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 08:15:46] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/check.php on line 36
+[22-Jul-2010 08:15:46] PHP Notice:  Undefined index:  pass in /home/kod2010/public_html/login/check.php on line 36
+[22-Jul-2010 08:15:46] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 38
+[22-Jul-2010 08:15:46] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/check.php on line 41
+[22-Jul-2010 08:15:46] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/check.php on line 41
+[22-Jul-2010 08:15:46] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/check.php on line 41
+[22-Jul-2010 08:15:46] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/check.php on line 41
+[22-Jul-2010 08:15:46] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/check.php on line 116
+[22-Jul-2010 08:15:46] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 08:15:46] PHP Notice:  Undefined index:  reason in /home/kod2010/public_html/login/niezalogowany.php on line 17
+[22-Jul-2010 08:16:29] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 38
+[22-Jul-2010 08:16:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 109
+[22-Jul-2010 08:16:29] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 08:16:29] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 08:16:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 08:20:18] PHP Parse error:  syntax error, unexpected '{' in /home/kod2010/public_html/login/check.php on line 38
+[22-Jul-2010 08:22:48] PHP Parse error:  syntax error, unexpected '{' in /home/kod2010/public_html/login/check.php on line 38
+[22-Jul-2010 08:23:34] PHP Parse error:  syntax error, unexpected '{' in /home/kod2010/public_html/login/check.php on line 39
+[22-Jul-2010 08:24:39] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kod2010/public_html/login/check.php on line 39
+[22-Jul-2010 08:26:00] PHP Parse error:  syntax error, unexpected '{' in /home/kod2010/public_html/login/check.php on line 38
+[22-Jul-2010 08:27:10] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 38
+[22-Jul-2010 08:27:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 109
+[22-Jul-2010 08:27:10] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 111
+[22-Jul-2010 08:27:10] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 08:27:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kod2010/public_html/login/check.php:38) in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 08:40:20] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 08:40:20] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 08:40:20] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 09:56:00] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 09:56:00] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 09:56:00] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 10:14:11] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 10:14:11] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 10:14:53] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 10:14:53] PHP Warning:  fopen(/home/kod2010/public_html/panel/log/cookie_auth.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/function.common.php on line 92
+[22-Jul-2010 10:14:53] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 10:14:53] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 10:15:50] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 10:15:50] PHP Warning:  fopen(/home/kod2010/public_html/panel/log/cookie_auth.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/function.common.php on line 92
+[22-Jul-2010 10:15:50] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 10:15:50] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 10:17:07] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 10:17:07] PHP Warning:  fopen(/home/kod2010/public_html/panel/log/cookie_auth.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/function.common.php on line 92
+[22-Jul-2010 10:17:07] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 10:17:07] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 10:54:24] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 10:54:24] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 10:54:24] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 10:54:24] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 10:54:24] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 10:54:24] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 10:54:24] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 10:54:24] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 10:54:24] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 10:54:24] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 10:58:40] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 10:58:40] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 10:58:40] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 10:58:40] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 10:58:40] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 10:58:40] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 10:58:40] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 10:58:40] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 10:58:40] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 10:58:40] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 13:08:44] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 13:08:44] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 13:08:44] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 13:08:44] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 13:08:44] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 13:08:44] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 118
+[22-Jul-2010 13:08:44] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 118
+[22-Jul-2010 13:08:44] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 118
+[22-Jul-2010 13:08:44] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 13:08:44] PHP Notice:  Undefined index:  reason in /home/kod2010/public_html/login/niezalogowany.php on line 17
+[22-Jul-2010 13:16:12] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 13:16:12] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 13:16:12] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 13:16:12] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 13:16:12] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 13:16:12] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 13:16:12] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 13:16:12] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 13:16:12] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 13:16:12] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 13:17:38] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 13:17:38] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 13:17:38] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 13:17:38] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 13:17:38] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 13:17:38] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 13:17:38] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 13:17:38] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 13:17:38] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 13:17:38] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 13:20:21] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 13:20:21] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 13:20:21] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 15:37:30] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 15:37:42] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 15:37:52] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/check.php on line 38
+[22-Jul-2010 15:37:52] PHP Notice:  Undefined index:  pass in /home/kod2010/public_html/login/check.php on line 38
+[22-Jul-2010 15:37:52] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 15:37:52] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/check.php on line 43
+[22-Jul-2010 15:37:52] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/check.php on line 43
+[22-Jul-2010 15:37:52] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/check.php on line 43
+[22-Jul-2010 15:37:52] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/check.php on line 43
+[22-Jul-2010 15:37:52] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/check.php on line 118
+[22-Jul-2010 15:37:52] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 15:37:52] PHP Notice:  Undefined index:  reason in /home/kod2010/public_html/login/niezalogowany.php on line 17
+[22-Jul-2010 14:38:00] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 15:38:30] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 15:38:44] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 15:38:44] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 15:38:44] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 15:38:55] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 15:38:55] PHP Warning:  fopen(/home/kod2010/public_html/panel/log/cookie_auth.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/function.common.php on line 92
+[22-Jul-2010 15:38:55] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 15:38:55] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 16:29:34] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 16:29:35] PHP Warning:  fopen(/home/kod2010/public_html/panel/log/cookie_auth.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/function.common.php on line 92
+[22-Jul-2010 16:29:35] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 16:29:35] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 16:30:22] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 16:30:22] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 16:30:22] PHP Notice:  Undefined index:  reason in /home/kod2010/public_html/login/niezalogowany.php on line 17
+[22-Jul-2010 16:32:56] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 16:32:56] PHP Warning:  fopen(/home/kod2010/public_html/panel/log/cookie_auth.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/function.common.php on line 92
+[22-Jul-2010 16:32:56] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 16:32:56] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 16:51:43] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 16:51:43] PHP Warning:  fopen(/home/kod2010/public_html/panel/log/cookie_auth.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/function.common.php on line 92
+[22-Jul-2010 16:51:43] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 16:51:43] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 17:41:37] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 17:41:37] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 17:41:37] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 17:45:51] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 17:45:51] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[22-Jul-2010 17:45:51] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 23:15:10] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[22-Jul-2010 23:15:10] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 23:15:10] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 23:15:10] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 23:15:10] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[22-Jul-2010 23:15:10] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 118
+[22-Jul-2010 23:15:10] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 118
+[22-Jul-2010 23:15:10] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 118
+[22-Jul-2010 23:15:10] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[22-Jul-2010 23:15:11] PHP Notice:  Undefined index:  reason in /home/kod2010/public_html/login/niezalogowany.php on line 17
+[23-Jul-2010 03:03:36] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[23-Jul-2010 03:03:36] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[23-Jul-2010 03:03:36] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[23-Jul-2010 03:03:36] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[23-Jul-2010 03:03:36] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[23-Jul-2010 03:03:36] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 70
+[23-Jul-2010 03:03:37] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 70
+[23-Jul-2010 03:03:37] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 70
+[23-Jul-2010 03:03:37] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[23-Jul-2010 06:46:44] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[23-Jul-2010 06:46:44] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[23-Jul-2010 06:46:44] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[23-Jul-2010 15:20:36] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[23-Jul-2010 15:20:37] PHP Notice:  Undefined offset:  2 in /home/kod2010/public_html/login/check.php on line 70
+[23-Jul-2010 15:20:37] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[23-Jul-2010 15:20:59] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[23-Jul-2010 15:20:59] PHP Notice:  Undefined offset:  2 in /home/kod2010/public_html/login/check.php on line 113
+[23-Jul-2010 15:20:59] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[23-Jul-2010 15:20:59] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[23-Jul-2010 15:31:26] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[23-Jul-2010 15:31:26] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[23-Jul-2010 15:31:26] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[23-Jul-2010 15:44:56] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[23-Jul-2010 15:44:56] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[23-Jul-2010 15:44:56] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[24-Jul-2010 03:41:39] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[24-Jul-2010 03:41:39] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[24-Jul-2010 03:41:39] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[24-Jul-2010 04:20:21] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[24-Jul-2010 04:20:21] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[24-Jul-2010 04:20:21] PHP Notice:  Undefined index:  reason in /home/kod2010/public_html/login/niezalogowany.php on line 17
+[24-Jul-2010 04:23:00] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[24-Jul-2010 04:23:00] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[24-Jul-2010 04:23:00] PHP Notice:  Undefined index:  reason in /home/kod2010/public_html/login/niezalogowany.php on line 17
+[24-Jul-2010 04:23:09] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[24-Jul-2010 04:23:09] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[24-Jul-2010 04:23:09] PHP Notice:  Undefined index:  reason in /home/kod2010/public_html/login/niezalogowany.php on line 17
+[24-Jul-2010 06:52:44] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[24-Jul-2010 06:52:44] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[24-Jul-2010 06:52:44] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[24-Jul-2010 06:54:05] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[24-Jul-2010 06:54:05] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[24-Jul-2010 06:54:05] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[24-Jul-2010 06:54:05] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[24-Jul-2010 06:54:05] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 52
+[24-Jul-2010 06:54:05] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 70
+[24-Jul-2010 06:54:05] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 70
+[24-Jul-2010 06:54:05] PHP Notice:  Undefined variable: user_data in /home/kod2010/public_html/login/check.php on line 70
+[24-Jul-2010 06:54:05] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[24-Jul-2010 09:43:27] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[24-Jul-2010 09:43:27] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[24-Jul-2010 09:43:27] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[24-Jul-2010 10:01:02] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[24-Jul-2010 10:01:02] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[24-Jul-2010 10:01:03] PHP Notice:  Undefined index:  reason in /home/kod2010/public_html/login/niezalogowany.php on line 17
+[25-Jul-2010 15:52:00] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[25-Jul-2010 15:52:00] PHP Warning:  fopen(/home/kod2010/public_html/panel/log/cookie_auth.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/function.common.php on line 92
+[25-Jul-2010 15:52:00] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[25-Jul-2010 15:52:00] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[25-Jul-2010 15:52:18] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[25-Jul-2010 15:52:18] PHP Warning:  fopen(/home/kod2010/public_html/panel/log/cookie_auth.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/function.common.php on line 92
+[25-Jul-2010 15:52:18] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[25-Jul-2010 15:52:18] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[25-Jul-2010 16:06:09] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[25-Jul-2010 16:06:09] PHP Warning:  fopen(/home/kod2010/public_html/panel/log/cookie_auth.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/function.common.php on line 92
+[25-Jul-2010 16:06:09] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[25-Jul-2010 16:06:09] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[25-Jul-2010 16:09:22] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[25-Jul-2010 16:09:22] PHP Warning:  fopen(/home/kod2010/public_html/panel/log/cookie_auth.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/function.common.php on line 92
+[25-Jul-2010 16:09:22] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[25-Jul-2010 16:09:22] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[25-Jul-2010 16:12:50] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[25-Jul-2010 16:12:50] PHP Warning:  fopen(/home/kod2010/public_html/panel/log/cookie_auth.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/function.common.php on line 92
+[25-Jul-2010 16:12:50] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[25-Jul-2010 16:12:50] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[25-Jul-2010 16:13:25] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[25-Jul-2010 16:13:25] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[25-Jul-2010 16:13:26] PHP Notice:  Undefined index:  reason in /home/kod2010/public_html/login/niezalogowany.php on line 17
+[25-Jul-2010 16:13:56] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[25-Jul-2010 16:13:56] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[25-Jul-2010 16:14:12] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[25-Jul-2010 16:14:12] PHP Warning:  fopen(/home/kod2010/public_html/panel/log/cookie_auth.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/function.common.php on line 92
+[25-Jul-2010 16:14:12] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[25-Jul-2010 16:14:12] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[25-Jul-2010 16:17:16] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[25-Jul-2010 16:17:16] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[25-Jul-2010 16:17:16] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[25-Jul-2010 16:21:51] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[25-Jul-2010 16:21:51] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[25-Jul-2010 16:21:51] PHP Notice:  Undefined index:  reason in /home/kod2010/public_html/login/niezalogowany.php on line 17
+[25-Jul-2010 16:22:26] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[25-Jul-2010 16:22:26] PHP Warning:  fopen(/home/kod2010/public_html/panel/log/cookie_auth.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/function.common.php on line 92
+[25-Jul-2010 16:22:26] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[25-Jul-2010 16:22:26] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[25-Jul-2010 16:28:09] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[25-Jul-2010 16:28:09] PHP Notice:  Undefined index:  REMOTE_HOST in /home/kod2010/public_html/login/check.php on line 113
+[25-Jul-2010 16:28:09] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[25-Jul-2010 16:28:19] PHP Notice:  Undefined index:  HTTP_X_FORWARDED_FOR in /home/kod2010/public_html/login/check.php on line 40
+[25-Jul-2010 16:28:19] PHP Notice:  Undefined variable: proxyIP in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 57
+[25-Jul-2010 16:28:19] PHP Notice:  Undefined index:  reason in /home/kod2010/public_html/login/niezalogowany.php on line 17

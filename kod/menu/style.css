@@ -1,0 +1,39 @@
+ul.tree {
+  display: block;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+ul.tree ul {
+  display: block;
+  margin-left: 0;
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ul.tree li {
+  display: block;
+  list-style-type: none;
+  padding-left: 20px;
+  background-image: url("document.gif");
+  background-position: left top;
+  background-repeat: no-repeat;
+}
+
+ul.tree li a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+ul.tree li a.folder {
+ 
+}
+
+ul.tree li a.active {
+  font-weight: bold;
+}
+
+ul.tree li a:hover {
+  text-decoration: underline;
+}

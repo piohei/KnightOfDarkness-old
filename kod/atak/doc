@@ -1,0 +1,118 @@
+OPIS NOWEJ WERSJI ATAKU:
+
+[szpiedzy]
+
+=============DEZINFORMACJA=============
+Atak szpiegami maj±cy na celu obni¿enie morale we wrogim ksiêstwie. Ograniczenie
+mozliwosci obnizenia morale naprzyklad do 0. Tak zeby szpiedzy nie byli zbyt
+silni.  
+
+============BUDYNEK=KOÑCOWY============
+Mo¿liwo¶c okradania budynku koñcowego z jedzenia tak ¿eby szpiedzy te¿ mogli 
+przeszkadzac w zbudowaniu BK. Co siê z tym wi±¿ê mo¿liwo¶æ obrony przed szpiegami
+budynku koncowego. Dodanie stra¿ników do bk albo wojsko pilnujace bk. Skutecznosc
+obrony zalezna od ilosci ludzi.
+
+============MORDOWANIE=================
+Wyrzucenie mo¿liwo¶ci mordowania bezrobotnych i tragarzy, spziedzy nie marnuja 
+swojego potencjalu na nic nie znaczace jednostki.
+
+===========SZPIEGOWANIE================
+Szpiegowanie daje tylko czesc informacji o ksiestwie ruchy wojsk, stacjonujace 
+wojska albo budynki specjalne.
+
+===============KRADZIE¯================
+Ograniczenie no¶no¶ci szpiegów tak zeby trzeba bylo wyslac ich wiecej zeby 
+zarobic.
+
+=========BUDYNKI=SPECJALNE============= 
+Du¿o pomys³ów na bs, napenwo wszystkie nie trafia do produkcji
+[Gildia skrytobójców v1] - Zwiêksza ilo¶æ zamordowanych przez szpiegów 
+[Gildia skrytobójców v2] - Daje mo¿liwo¶æ mordowania stra¿ników( mo¿e byæ 
+	zbyt silne)
+[Gildia z³odziei v1] - Zwiêksza no¶no¶æ szpiegów (¶cis³y zwi±zek ze zmianami
+	w kradzierzy)
+[Gildia z³odziej v2] - Pozwala na kradniecie surowcow których jest najwiecej
+
+=======OBRONA=PRZED=SZPIEGAMI==========
+efektywna ilosc strazników jest zale¿na od ilo¶ci ziemi i ilo¶ci stra¿ników
+ 
+[szpiedzy]
+
+-------------- WOJNY -------------------
+jest to nowa funkcjonalnosæ :
+
+tabela :
+ID autoincrement primary_key
+atakujacy varchar(25) koalicja 
+atakowany varchar(25) koalicja
+data_rozpoczecia date
+data_zakoñczenia date
+opis_atakujacego varchar(255) // powód wypowiedzenia itd
+straty_atakujacego int // jakis wzor bedzie na ich liczenie
+straty_atakowanego int // jakis wzor bedzie na ich liczenie
+
+wojna jest pomiêdzy koalicjiami i wypowiada j± cesarz i zakonczyc ja mo¿e 
+tylko osoba która j± wypowiedzia³a. w chwili wypowiedzenia atakujacy daje krótki 
+opis. Jezeli koalicje sa w stanie wojny skraca sie czas przemarszu wojsk 
+(np o 2 tury). Wojna wypowiedziana trwa min 3 dni i nie mo¿na jej wczesniej 
+zakoñczyæ. bêdzie mo¿na ogl±daæ historie wojen koalicji
+
+--------------ATAK---------------------
+Ró¿nice w ataku:
+
+Wzronie rola wie¿yczek (narazie sie kompletnie nie op³acaj±)
+Dojdzie jeszcze nowy budynek Zamek bêdzie kosztowa³ 500 000 z³ota 
+i bêdzie chroni³ okreslon± liczbe ziemi np 600 jednostek.
+je¿eli ksiêstow posiada 3 zamki to chronia one 1800 jednostek ziemi czyli ksiestwo 
+nie bedzie mog³o miec mniej.Jezeli ksiestwo ma 1 zamek to nie bedzie mozna go atakowaæ
+. Zamek bêdzie mia³ osobna tabele:
+
+TABELA DLA ZAMKÓW 
+
+ID int klucz 
+czyj varchar(25)
+poprzedni_wlasciciel (25)
+nazwa varchar(100)
+czy_wybudowany bool
+postep_budowy int (albo double nie wiem jeszcze :) )
+int lucznicy
+int piechota
+int husaria
+
+bêdzie nowy tryb atak na zamek i atakujacy bedzie móg³ wybraæ który zamek atakuje
+.Atak na zamek bêdzie trwa³ d³uzej ni¿ zwyk³y atak np 12 tur.
+Jednostki znajdujace sie w zamku bêd± mia³y bonusy
+³ucznicy 3 razy atak i obrona
+piechota 2 razy atak i obrona 
+husaria bez bonusów 
+
+Zamki mo¿na zdobywaæ i je odbijaæ jak odbijamy zamek to wtedy atak trwa 4 tury.
+
+TABELA DLA ATAKU 
+ID autoincrement primary_key
+kto  varchar(25) index
+kogo varchar(25)
+lucznicy int
+piechota int
+husaria int
+tury_do_konca int
+tryb int ?? 
+ID_wojny int
+ 
+
+Klasy
+Nazwa:Ataki
+Konstruktor Ataki(&$User)  
+Metody: Nowy_atak(kogo,jednostki[],cel_ataku)
+        Tura()<- aktuali
+        , Przebieg, 
+
+
+wojan 
+
+zamki
+
+ 
+
+

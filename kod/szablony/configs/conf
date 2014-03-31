@@ -1,0 +1,38 @@
+# zawiera rozne sciezki zdefiniowane globalnie
+# ta sekcja zniknie wiec prosze z niej nie korzystac
+# zamiast ponizszych zmienny sa dostepne {$root_dir}
+# {$image_dir} {$style_dir} itd.
+[PATH]
+root_dir  = "http://kod-online.pl"
+image_dir = "http://kod-online.pl/img/"
+style_dir = "http://kod-online.pl/css/"
+
+
+# Wszelkie ustawienia dotyczace kolorow
+[COLORS]
+textfield_activate_color = "#D6C7AF"
+submenu_activate_color   = "#212223"
+
+
+# Wyrazenia regularne
+[REXP]
+rexp_login      = "/^[a-z0-9_]{3,20}$/i"
+rexp_pass       = "/^[a-z0-9_]{5,20}$/i"
+rexp_email      = "/^[^@]+@([a-z0-9_-]+\.)+[a-z]{2,4}$/i"
+
+
+# elementy wazne. Prawie zawsze uzywane.
+[HEAD]
+meta_standard = """<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2">
+    <meta http-equiv="Content-Language" content="pl">"""
+link_css_mainstyle = """<link rel="stylesheet" type="text/css" href="http://kod-online.pl/css/main_style.css">"""
+link_favicon       = """<link rel="shortcut icon" type="image/x-icon" href="http://kod-online.pl/favicon.ico">"""
+link_js_formserv   = """<script type="text/javascript" src="http://kod-online.pl/js/form_serv.js"></script>"""
+dtd                = """<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">"""
+
+# Zawiera informacje na temat strony (stopka)
+info = """<br/>Wersja testowa (w trakcie budowy) polskiej gry MMORPG<br>Zapraszamy na forum <a href="http://forum.kod-online.pl.net">http://forum.kod-online.pl.net</a> i do testowania"""
+
+meta_description = """<meta name="Description" content="Knight of Darkness (KoD) to polska gra typu MMORPG (Massive Multiplayer Online Role Playing Game). Akcja gry osadzona jest w średniowieczu. Gracz tworzy i rozwija autonomiczne królestwo pod względem militarnym i gospodarczym">"""
+meta_title = """<meta name="Title" content="Knight of Darkness (Massive Multiplayer Online RPG)" >"""
+meta_robots = """<meta name="Robots" content="all">"""

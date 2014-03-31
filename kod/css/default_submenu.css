@@ -1,0 +1,12 @@
+td.submenuItem{
+	border: 1px solid #4E4639;
+	text-align: center;
+	height: 18px;
+}
+
+a.submenuItem:link, a.submenuItem:visited, a.submenuItem:active,
+a.submenuItem:hover, a.submenuItem:focus{
+	color: #C8A27C;
+	font-size: 11px;
+	text-decoration: none;
+}

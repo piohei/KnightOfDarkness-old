@@ -1,0 +1,2 @@
+lynx -dump http://kod-online.pl/task.php?action=addtours\&key=Hg84oiudsko56 >/dev/null 2>&1
+wget - O - -q http://kod-online.pl/task.php?action=addtours\&key=Hg84oiudsko56 >/dev/null 2>&1

@@ -1,0 +1,94 @@
+<?PHP
+//test
+	require_once('../config.php');
+
+	require_once('../funkcjeBazy.php');
+
+	otworz_polaczenie();
+
+	$login = czyZalogowany();
+
+	$info=infoOksiestwie($login);
+
+
+
+
+
+
+
+			if ($_POST["nazwa"]!=""){
+
+                            	if (!preg_match("/^[a-z0-9_]{5,20}$/i",$_POST["nazwa"])) print "<font color='red'>Niepoprawna nazwa!</font>";
+
+			           else{
+
+			              $zapytanie="select nazwa from KOALICJA where nazwa='".$_POST["nazwa"]."';";
+
+			              $wynik = mysql_query($zapytanie,$polaczenie);
+
+			              if (mysql_num_rows($wynik)!=0) $error="Jest juz koalicja o takiej nazwie!";
+
+			              else{
+
+
+
+				       $zapytanie="select koalicja from KSIESTWA where nazwa='".$login."';";
+
+				       $wynik = mysql_query($zapytanie,$polaczenie);
+
+				       $wiersz = mysql_fetch_array($wynik);
+
+				       if ($wiersz["koalicja"]!=NULL) $error="Jestes juz czlonkiem jakiejs koalicji!";
+
+				       else{
+
+
+
+				        $zapytanie="insert into KOALICJA values('".$_POST["nazwa"]."','".$login."',1,'".$_POST["opis"]."',curdate());";
+
+				        mysql_query($zapytanie,$polaczenie);
+
+				        $zapytanie="select liczba_koalicji from INFO";
+
+				        $wynik = mysql_query($zapytanie,$polaczenie);
+
+				        $wiersz = mysql_fetch_array($wynik);
+
+				        $ile_koalicji = $wiersz["liczba_koalicji"];
+
+				        $zapytanie="update INFO set liczba_koalicji=".($ile_koalicji+1).";";
+
+				        mysql_query($zapytanie,$polaczenie);
+
+				        $zapytanie="update KSIESTWA set koalicja='".$_POST["nazwa"]."' where nazwa='".$login."';";
+
+				        mysql_query($zapytanie,$polaczenie);
+
+			               }
+
+			             }
+
+
+
+		                }
+
+		       }
+
+
+
+		$smarty->assign('kingdomInfo',$info);
+
+		$smarty->assign('error',$error);
+
+		$smarty->assign('tytul',"Nowa koalicja");
+
+		$smarty->assign('main_panel','nowaKoalicja.tpl');
+
+		$smarty->display('main.tpl');
+
+		zamknij_polaczenie();
+
+
+
+?>
+

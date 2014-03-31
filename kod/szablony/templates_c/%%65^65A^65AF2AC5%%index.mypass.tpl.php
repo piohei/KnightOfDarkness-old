@@ -1,0 +1,7 @@
+<?php /* Smarty version 2.6.11, created on 2010-07-21 08:42:57
+         compiled from index.mypass.tpl */ ?>
+<?php echo '<table cellpadding="0" cellspacing="0" border="0" style="width: 100%; height: 100%; background: url(';  echo $this->_tpl_vars['image_dir'];  echo 'index.sword.jpg) no-repeat left top"><tr><td align="center" valign="middle">';  ob_start();  echo '<p style="margin: 30px 15px 0px 15px"><img src="';  echo $this->_tpl_vars['image_dir'];  echo 'letter.w.gif" alt="W">pisz adres e-mail na który zosta³a dokonana rejestracja królestwa. Nie mo¿emy odzyskaæ Twojego aktualnego has³a, dlatego te¿ zostanie wygenerowane nowe i zostanie wys³ane na podan± skrzynkê e-mail. Nastêpnie aby ustawiæ swoje has³o, po zalogowaniu siê, nale¿y skorzystaæ z opcji "Zmiana has³a" w profilu królestwa.</p><form name="myPass" action="';  echo $this->_tpl_vars['form_action'];  echo '" method="POST" style="margin: 0; padding: 0"><p style="text-align: right; margin: 30px 30px 30px 30px; color: #9C7D26">adres e-mail &nbsp;&nbsp;&nbsp;<input name="email" class="textField_1" type="text" style="width: 150px"><br><input type="submit" class="decoratedButton_1" value="Wy¶lij" style="margin-top: 5px"></p></form>';  $this->_smarty_vars['capture']['message'] = ob_get_contents(); ob_end_clean();  echo '';  $_smarty_tpl_vars = $this->_tpl_vars;
+$this->_smarty_include(array('smarty_include_tpl_file' => "index.messagebox.tpl", 'smarty_include_vars' => array()));
+$this->_tpl_vars = $_smarty_tpl_vars;
+unset($_smarty_tpl_vars);
+  echo '</td></tr></table>'; ?>

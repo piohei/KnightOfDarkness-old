@@ -1,0 +1,7 @@
+[22-Jul-2010 09:31:26] PHP Notice:  Undefined index:  action in /home/kod2010/public_html/admin/admin.php on line 16
+[22-Jul-2010 09:31:26] PHP Notice:  Undefined index:  reset in /home/kod2010/public_html/admin/admin.php on line 66
+[22-Jul-2010 09:31:36] PHP Notice:  Undefined variable: tmp in /home/kod2010/public_html/sondy/funkcje_sonda.php on line 381
+[22-Jul-2010 09:31:39] PHP Notice:  Undefined index:  action in /home/kod2010/public_html/admin/admin.php on line 16
+[22-Jul-2010 09:31:39] PHP Notice:  Undefined index:  reset in /home/kod2010/public_html/admin/admin.php on line 66
+[22-Jul-2010 09:31:42] PHP Notice:  Undefined variable: arr in /home/kod2010/public_html/admin/admin.php on line 26
+[22-Jul-2010 09:31:42] PHP Notice:  Undefined index:  reset in /home/kod2010/public_html/admin/admin.php on line 66

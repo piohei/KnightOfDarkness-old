@@ -1,0 +1,3 @@
+RewriteEngine off
+RewriteCond %{REQUEST_URI} /forum/
+RewriteRule ^(.*)$ http://www.forum.kod-online.pl/$1 [R=301,L]

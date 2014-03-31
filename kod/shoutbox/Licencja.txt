@@ -1,0 +1,8 @@
+Klasa wraz ze skryptem js rozprowadzana jest na zasadzie licencji LGPL. 
+Od wersji 1.0 wymagane jest umieszczenie informacji o autorze wraz z linkiem do jego strony, np. w postaci:
+<a href="http://nospor.pl/shoutbox.html">ShoutBox 1.1.1</a> &copy; Robert (nospor) Nodzewski 
+
+
+Kontakt:
+Robert (nospor) Nodzewski
+nospor at interia dot pl

@@ -1,0 +1,5 @@
+<?php /* Smarty version 2.6.11, created on 2010-07-21 15:19:27
+         compiled from wystaw.tpl */ ?>
+<?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
+smarty_core_load_plugins(array('plugins' => array(array('modifier', 'default', 'wystaw.tpl', 3, false),)), $this); ?>
+<?php echo '<center><h3>';  echo ((is_array($_tmp=@$this->_tpl_vars['wynik'])) ? $this->_run_mod_handler('default', true, $_tmp, "") : smarty_modifier_default($_tmp, ""));  echo '</h3><br><form action="targ.php?tryb=5" method="post"><table align="center" bgcolor="#212223"><tr><td class="header">Towar</td><td class="header">Ile</td><td class="header">Cena za sztuke</td></tr><tr><td><SELECT NAME="co_sprzedaje" class="textfield"><OPTION> zelazo<OPTION> jedzenie<OPTION> narzedzia<OPTION> bronie</SELECT></td><td align ="center"><input  type="text" class="textfield"  name="ile" size=5></td><td align ="center"><input  type="text" class="textfield"  name="cena" size=5></td></tr><tr><td align="center" colspan="3"><input type="submit" class=\'button \'value="   Wystaw   "></td></tr></table></form></center>'; ?>

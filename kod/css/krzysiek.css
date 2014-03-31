@@ -1,0 +1,56 @@
+table.main_table {
+  background-color: rgb(54,42,26);
+  border-left: 1px  rgb(43,44,45) solid;
+  border-right: 1px  rgb(43,44,45) solid; 
+  margin-left: 5px;
+}
+td.main_table.tytul {
+  font-family: Verdana;
+  color: rgb(200,162,124)
+}
+.left_column {
+  border-right: 1px rgb(136,124,100) solid;
+}
+.row1 {
+  background-color: rgb(33,34,35);
+  color: rgb(148,148,146);
+}
+.row2 {
+  background-color: rgb(43,44,45);
+  color: rgb(138,138,136);
+}
+.row3 {
+  background-color: rgb(1,75,137);
+  color: rgb(138,138,136);
+}
+
+.sonda_data {
+  font-size: 9px;
+}
+.kp-header {
+  color: rgb(200,162,124);
+  background-image: url(../img/table_header_bg_type01.jpg);
+}
+.title {
+  font-weight: bold;
+  color:rgb(200,162,124);
+}
+.menu-pomoc{
+  border: 1px rgb(165,136,94) dashed;
+}
+.menu-separator{
+  font: bold medium bold Comic Sans MS;
+  color: rgb(255,255,250);
+}
+
+.podpis {
+  font-size: 9px;
+}
+.nb {
+  font-size: 9px;
+  color: rgb(148,148,146);
+  height: 25;
+  vertical-align: middle;
+   text-align:center;
+}
+

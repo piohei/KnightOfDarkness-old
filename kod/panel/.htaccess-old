@@ -1,0 +1,9 @@
+
+AuthType Basic
+
+AuthName "Obszar administracyjny"
+
+AuthUserFile "/home2/kodadmin/.htpasswds/panel/passwd"
+
+
+require valid-user

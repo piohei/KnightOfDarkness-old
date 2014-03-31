@@ -1,0 +1,7 @@
+AuthName "kod-online.pl statistics"
+AuthType Basic
+AuthUserFile /home/bartek/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

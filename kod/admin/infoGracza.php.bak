@@ -1,0 +1,54 @@
+<html>
+<link rel=stylesheet href="/style.css" type="text/css">
+<body>
+	<center>
+	<?PHP
+	include "../funkcjeBazy.php";
+	otworz_polaczenie();
+	$login = czyZalogowany();
+	?>
+	<TABLE ALIGN="center" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100%">
+	<TR ALIGN="right" >
+		<TH bgcolor='#808080' VALIGN="middle" WIDTH="10%">MENU:</TH>
+		<TH bgcolor='#808080' VALIGN="middle" WIDTH="90%">[PANEL ADMINISTRACYJNY] zalogowany : <? print $REMOTE_USER; ?><a href= '/index.php'><FONT SIZE="2" color="blue">[wyloguj]</FONT></a></TH>
+			</TR>
+			<TR ALIGN="center" VALIGN="top">
+				<TD>
+			<br><a href= 'ksiestwa.php'><FONT SIZE="3">GRACZE</FONT></a>
+
+		</TD>
+		<TD>
+		    <p allign="center"><font size="5" color="yellow">Dane gracza</font></p>
+		     <?PHP
+
+			print"<p>Nazwa: ".$_GET["name"]."</p>";
+			$zapytanie="select * from PROFIL where login='".$_GET["name"]."';";
+			$wynik=mysql_query($zapytanie,$polaczenie);
+			$wiersz=mysql_fetch_array($wynik);
+			$zapytanie="select FLOOR((TO_DAYS(curdate())-TO_DAYS(wiek))/365) AS wiek from PROFIL where login='".$_GET["name"]."';";
+			$wynik=mysql_query($zapytanie,$polaczenie);
+			$wiersz2=mysql_fetch_array($wynik);
+				print "<table>";
+				print "<tr><td>Imie: </td><td>".$wiersz["imie"]."</td></tr>";
+				print "<tr><td>Nazwisko: </td><td>".$wiersz["nazwisko"]."</td></tr>";
+				print "<tr><td>Kraj: </td><td>".$wiersz["kraj"]."</td></tr>";
+				print "<tr><td>Miasto: </td><td>".$wiersz["miasto"]."</td></tr>";
+				print "<tr><td>Wiek: </td><td>".$wiersz2["wiek"]."</td></tr>";
+				print "<tr><td>dane jawne: </td><td>".($wiersz["ujawnic"]=="true"?'tak':'nie')."</td></tr>";
+				print "<tr><td colspan=2><hr></td></tr>";
+				print "</table>";
+
+				print "<table>";
+				print "<tr><td>Data za³o¿enia konta: ".$wiersz["data_zalozenia"]."</td></tr>";
+				print "<tr><td>Ostatnio zalogowany: ".$wiersz["ostatni_log"]."</td></tr>";
+				print "</table>";
+
+			zamknij_polaczenie();
+		     ?>
+
+		</TD>
+	</TR>
+	</TABLE>
+
+</body>
+</html>

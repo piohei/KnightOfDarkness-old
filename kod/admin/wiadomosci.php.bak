@@ -1,0 +1,60 @@
+<html>
+<link rel=stylesheet href="/style.css" type="text/css">
+<body>
+	<center>
+	<?PHP
+	include "../funkcjeBazy.php";
+	otworz_polaczenie();
+	// pasowa³oby to tutaj usunac zanim sie wyswietl¹ staty o wiadomosciach
+	while($kolejny=each($_POST["cboxy"])){
+				usunWiadomosc($kolejny[1]);
+		}
+	include "../temp_info.php";
+	?>
+	<TABLE ALIGN="center" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100%">
+	<TR ALIGN="right" >
+		<TH bgcolor='#808080' VALIGN="middle" WIDTH="10%">MENU:</TH>
+<TH bgcolor='#808080' VALIGN="middle" WIDTH="90%">[PANEL ADMINISTRACYJNY] zalogowany : <? print $REMOTE_USER; ?><a href= '/index.php'><FONT SIZE="2" color="blue">[wyloguj]</FONT></a></TH>
+	</TR>
+	<TR ALIGN="center"  VALIGN="top">
+		<TD>
+			<br><a href= 'ksiestwa.php'><FONT SIZE="3">GRACZE</FONT></a>
+
+		</TD>
+		<TD>
+		<form action="wyslij.php" method="post">
+		<table>
+			<tr><td><p>DO:<INPUT NAME="nazwa" <?PHP if($do!="")print"value=".$do; ?> >   <input type="submit" value="Wyœlij"></p></tr></td>
+			<tr><td><TEXTAREA NAME="tresc" ROWS=5 COLS=50></TEXTAREA> </tr></td>
+		</table>
+		</form>
+		<a href= 'wiadomosci.php?tryb=zaproszenia'><FONT SIZE="3">[ZAPROSZENIA]</FONT></a>
+		<a href= 'wiadomosci.php'><FONT SIZE="3"> [WIADOMOSCI]</FONT></a>
+		<hr>
+
+		<?PHP
+		if ($_POST["czyUsunac"]=="tak"){
+
+		    odrzuc_zap($login,$_POST["koalicja"]);
+	    	}
+
+		/*if($id!="")
+			usunWiadomosc($id);*/
+
+
+
+		if($tryb=="zaproszenia"){
+			zaproszenia_sojusz($login);
+			zaproszenia($login);
+
+		}
+		else
+			odebrane($login);
+
+
+		 ?></TD>
+	</TR>
+	</TABLE>
+
+</body>
+</html>

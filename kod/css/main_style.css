@@ -1,0 +1,123 @@
+table, body{
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	color: #DBDBDB;
+}
+
+body{
+	background: #000000;
+	scrollbar-face-color: #372C1B;
+	scrollbar-track-color: #36322D;
+	scrollbar-arrow-color: #937B59;
+	scrollbar-3dlight-color: #937B59;
+	scrollbar-highlight-color: #33291B;
+	scrollbar-shadow-color: #372C1B;
+	scrollbar-darkshadow-color: #937B59;
+}
+
+a:link, a:visited{
+	text-decoration: none;
+	color: #C8C8C8;
+}
+
+a:focus, a:hover, a:active{
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+
+	a.mainMenuItem:link, a.mainMenuItem:visited, a.mainMenuItem:hover,
+a.mainMenuItem:focus, a.mainMenuItem:active{
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+a.mainMenuItem:link, a.mainMenuItem:visited{
+	color: #8B8B8A;
+}
+
+a.mainMenuItem:hover, a.mainMenuItem:focus, a.mainMenuItem:active{
+	color: #6B7B89;
+}
+
+.small{
+	font-size: 8pt;
+}
+
+.button{
+	border: none;
+	height: 21px;
+	background-image: url('../img/button_decoration_v1.0.jpg');
+	font-size: 11px;
+	color: #C8C8C8;
+}
+
+.textfield{
+	border: 1px;
+	border-style: solid;
+	border-color: Black;
+	background-color: #DAD7D7;
+}
+
+.credits{
+	font-size: 7pt;
+	color: White;
+}
+
+.credits.name{
+	color:  #ABABAB;
+}
+
+img, a img{
+	border-width: 0px;
+    margin: 0;
+}
+
+input{
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+.textFieldType1{
+    border: 1px solid #947b5c;
+    background-color: #1f2526;
+    color: #c9c0b5;
+    height: 20px;
+}
+
+td.header, th.header{
+	height: 20px;
+	font-size: 11px;
+	color: #c8a27c;
+	background-image: url(../img/table_header_bg_type01.jpg);
+	text-align: center;
+}
+
+td.normal, input.normal{
+	padding-left: 20px;
+	background-color: #212223;
+	color: #999996;
+	font-size: 11px;
+}
+
+td.normal{
+    	height: 22px;
+}
+
+bonus_specjalne{
+  font-family: Verdana, Helvetica, sans-serif;
+  text-decoration: underline;
+  color: rgb(0,102,0);
+}
+
+.NotifyMesgInfo{
+  background-color: #272119;
+  color: #c0b193;
+}
+
+.NotifyMesgError{
+  background-color: #272119;
+  color: #ff0000;
+  font-size: 11px;
+}
+

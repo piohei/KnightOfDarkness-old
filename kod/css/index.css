@@ -1,0 +1,59 @@
+body,  table{
+    background-color: #000000;
+    font: 11px Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color: #d29e70;
+}
+
+img{
+    border: 0 solid;
+}
+
+a:link, a:hover, a:focus, a:visited, a:active{
+    color: #846244;
+    text-decoration: none;
+}
+
+a:hover, a:focus{
+    text-decoration: underline;
+}
+
+.foot{
+    color: #989b9e;
+    font-size: 10px;
+}
+
+a.menu, a.menu:hover, a.menu:focus, a.menu:visited, a.menu:active{
+    color: #d8c3c3;
+    text-decoration: none;
+    margin: 0px 8px;
+}
+
+a.menu:hover, a.menu:focus{
+    color: #9c7d26;
+}
+
+a.menuCurrent:link, a.menuCurrent:hover, a.menuCurrent:focus, a.menuCurrent:visited, a.menuCurrent:active{
+    color: #9c7d26;
+    text-decoration: none;
+    margin: 0px 8px;
+}
+
+.textField_1{
+    height: 15px;
+    border: 1px solid #806044;
+    background: url({/literal}{$image_dir}{literal}textfield_1bg.jpg) repeat-x top;
+    font-size: 10px;
+    color: #d8c3c3;
+    padding-left: 3px;
+}
+
+.decoratedButton_1{
+    height: 19px;
+    border: 1px solid #A17552;
+    background: url({/literal}{$image_dir}{literal}decoratedbutton_1bg.jpg) no-repeat left;
+    color: #986c49;
+    padding-left: 13px;
+    padding-right: 5px;
+    font-size: 10px;
+    background-color: #000000;
+}

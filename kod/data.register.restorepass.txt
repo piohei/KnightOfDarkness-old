@@ -1,0 +1,23 @@
+Witaj,
+
+Skorzysta³e¶ z opcji 'Zgubi³em pieczêæ' na stronie Knight of Darkness.
+Zosta³a wygenerowana nowa pieczêæ:
+
+    KRÓLESTWO:  <<login>>
+    PIECZÊÆ:    <<pass>>
+    
+Wejd¼ na stronê <<server_addr>> aby siê zalogowaæ.
+Aby zmieniæ ustawion± pieczêæ skorzystaj z opcji zmiany has³a w profilu
+królestwa.
+
+                                            Witamy ponownie w naszej grze
+                                            Knight of Darkness
+                                            
+                                             ==(W{========-) * (
+                                               ||  (.--.)  | * |
+                                               | \_,|**|,_/| * |
+                                               `\ ' `--'   /\_/
+                                                /`\__..__/'\
+                                               (   | .  |   )
+                                               )  /==00==\  (
+                                            __/__/~~\__/~~\__\___

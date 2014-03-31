@@ -1,0 +1,4 @@
+Ustawienie strefy czasowej: funkcjebazy.php
+		mysql_query("SET time_zone='+02:00'", $polaczenie);
+
+SET NAMES "cp1250"

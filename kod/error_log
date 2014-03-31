@@ -1,0 +1,777 @@
+[19-Jul-2010 12:46:15] PHP Warning:  require_once(config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/index.php on line 8
+[19-Jul-2010 12:46:15] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/index.php on line 8
+[19-Jul-2010 13:26:56] PHP Warning:  require_once(public_html/public_html/version.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/config.php on line 63
+[19-Jul-2010 13:26:56] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'public_html/public_html/version.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/config.php on line 63
+[19-Jul-2010 13:29:50] PHP Warning:  require_once(public_html/public_html/version.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/config.php on line 63
+[19-Jul-2010 13:29:50] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'public_html/public_html/version.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/config.php on line 63
+[19-Jul-2010 13:29:54] PHP Warning:  require_once(public_html/public_html/version.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/config.php on line 63
+[19-Jul-2010 13:29:54] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'public_html/public_html/version.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/config.php on line 63
+[19-Jul-2010 13:38:08] PHP Warning:  require_once(public_html/public_html/version.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/config.php on line 63
+[19-Jul-2010 13:38:08] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'public_html/public_html/version.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/config.php on line 63
+[19-Jul-2010 13:42:29] PHP Warning:  require_once(public_html/public_html/version.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/config.php on line 63
+[19-Jul-2010 13:42:29] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'public_html/public_html/version.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/config.php on line 63
+[19-Jul-2010 13:45:52] PHP Warning:  require_once(public_html/public_html/version.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/config.php on line 63
+[19-Jul-2010 13:45:52] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'public_html/public_html/version.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/config.php on line 63
+[19-Jul-2010 13:47:27] PHP Warning:  require_once(public_html/lib/smarty/Smarty.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/config.php on line 63
+[19-Jul-2010 13:47:27] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'public_html/lib/smarty/Smarty.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/config.php on line 63
+[19-Jul-2010 13:53:35] PHP Warning:  require_once(config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/index.php on line 8
+[19-Jul-2010 13:53:35] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/index.php on line 8
+[20-Jul-2010 06:25:43] PHP Warning:  require_once(config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/index.php on line 8
+[20-Jul-2010 06:25:43] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/index.php on line 8
+[20-Jul-2010 06:32:19] PHP Warning:  require_once(public_html/public_html/version.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/config.php on line 63
+[20-Jul-2010 06:32:19] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'public_html/public_html/version.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/config.php on line 63
+[20-Jul-2010 06:35:25] PHP Warning:  require_once(../../common.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 8
+[20-Jul-2010 06:35:25] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../common.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/panel/includes/class.LogowaniaLog.php on line 8
+[20-Jul-2010 06:37:07] PHP Warning:  require_once(public_html/version.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/config.php on line 63
+[20-Jul-2010 06:37:07] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'public_html/version.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/config.php on line 63
+[20-Jul-2010 06:43:39] PHP Warning:  require_once(/home/kod2010/lib/smarty/Smarty.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/config.php on line 64
+[20-Jul-2010 06:43:39] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/kod2010/lib/smarty/Smarty.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/config.php on line 64
+[20-Jul-2010 07:13:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kod2010/public_html/login/lib.php on line 141
+[20-Jul-2010 07:13:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kod2010/public_html/login/lib.php on line 146
+[20-Jul-2010 08:15:41] PHP Fatal error:  Call to undefined function infoIloscGraczy() in /home/kod2010/public_html/index.php on line 42
+[20-Jul-2010 08:16:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kod2010/public_html/login/lib.php on line 141
+[20-Jul-2010 08:16:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kod2010/public_html/login/lib.php on line 146
+[20-Jul-2010 08:21:57] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host '/home/kod2010/t' (1) in /home/kod2010/public_html/funkcjeBazy.php on line 20
+[20-Jul-2010 08:22:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kod2010/public_html/login/lib.php on line 141
+[20-Jul-2010 08:22:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kod2010/public_html/login/lib.php on line 146
+[20-Jul-2010 08:25:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kod2010/public_html/login/lib.php on line 141
+[20-Jul-2010 08:25:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kod2010/public_html/login/lib.php on line 146
+[20-Jul-2010 14:13:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kod2010/public_html/login/lib.php on line 141
+[20-Jul-2010 14:13:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kod2010/public_html/login/lib.php on line 146
+[20-Jul-2010 14:28:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kod2010/public_html/login/lib.php on line 141
+[20-Jul-2010 14:28:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kod2010/public_html/login/lib.php on line 146
+[21-Jul-2010 08:55:32] PHP Warning:  require_once(lib/class.User.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/register.php on line 11
+[21-Jul-2010 08:55:32] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'lib/class.User.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/register.php on line 11
+[21-Jul-2010 09:01:57] PHP Warning:  require_once(lib/class.User.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/register.php on line 11
+[21-Jul-2010 09:01:57] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'lib/class.User.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kod2010/public_html/register.php on line 11
+[21-Jul-2010 09:03:17] PHP Notice:  Undefined index:  code in /home/kod2010/public_html/register.php on line 34
+[21-Jul-2010 09:03:20] PHP Notice:  Undefined variable: mesg in /home/kod2010/public_html/register.php on line 125
+[21-Jul-2010 09:06:08] PHP Notice:  Undefined index:  code in /home/kod2010/public_html/register.php on line 34
+[21-Jul-2010 09:06:10] PHP Notice:  Undefined variable: mesg in /home/kod2010/public_html/register.php on line 125
+[22-Jul-2010 08:40:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server at 'sending authentication information', system error: 32 in /home/kod2010/public_html/funkcjeBazy.php on line 20
+[22-Jul-2010 08:40:22] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 08:40:22] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 08:40:23] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 08:40:23] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 08:42:58] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 08:42:58] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 08:42:58] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 09:00:07] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 09:00:07] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 09:00:07] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 09:01:02] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 09:01:02] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 09:01:02] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 09:01:12] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 09:01:12] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 09:01:12] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 09:02:04] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 09:02:04] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 09:02:04] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 09:03:58] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 09:03:58] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 09:03:58] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 09:05:40] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 09:05:40] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 09:05:40] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 09:06:13] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 09:06:13] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 09:06:13] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 09:12:55] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 09:12:55] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 09:12:55] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 09:31:17] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 09:31:17] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 09:31:17] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 09:31:47] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 09:31:47] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 09:31:47] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 09:33:39] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 09:33:39] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 09:33:39] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 09:53:45] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 09:53:45] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 09:53:45] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 09:56:01] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 09:56:01] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 09:56:01] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 09:56:01] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 09:57:59] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 09:57:59] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 09:57:59] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 10:01:15] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 10:01:15] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 10:01:15] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 10:03:18] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 10:03:18] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 10:03:18] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 10:05:43] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 10:05:43] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 10:05:43] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 10:10:39] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 10:10:39] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 10:10:39] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 10:11:22] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 10:11:22] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 10:11:22] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 10:11:41] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 10:11:41] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 10:11:41] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 10:13:55] PHP Notice:  Undefined index:  code in /home/kod2010/public_html/register.php on line 34
+[22-Jul-2010 10:13:57] PHP Notice:  Undefined variable: mesg in /home/kod2010/public_html/register.php on line 125
+[22-Jul-2010 10:14:54] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 10:14:54] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 10:14:54] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 10:14:54] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 10:15:51] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 10:15:51] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 10:15:51] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 10:15:51] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 10:17:08] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 10:17:08] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 10:17:08] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 10:17:08] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 10:17:35] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 10:17:35] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 10:17:35] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 10:17:56] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 10:17:56] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 10:17:56] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 10:54:25] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 10:54:25] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 10:54:25] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 10:54:25] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 10:58:15] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 10:58:15] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 10:58:15] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 10:58:41] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 10:58:41] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 10:58:41] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 10:58:41] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 13:12:44] PHP Notice:  Undefined index:  code in /home/kod2010/public_html/register.php on line 34
+[22-Jul-2010 13:12:46] PHP Notice:  Undefined variable: mesg in /home/kod2010/public_html/register.php on line 125
+[22-Jul-2010 13:16:13] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 13:16:13] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 13:16:13] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 13:16:13] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 13:16:15] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 13:16:15] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 13:16:15] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 13:17:39] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 13:17:39] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 13:17:39] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 13:17:39] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 13:17:41] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 13:17:41] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 13:17:41] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 13:17:47] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 13:17:47] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 13:17:47] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 13:18:50] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 13:18:50] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 13:18:50] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 13:19:13] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 13:19:13] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 13:19:13] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 13:20:21] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 13:20:21] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 13:20:21] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 13:20:21] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 13:20:31] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 13:20:31] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 13:20:31] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 13:21:33] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 13:21:33] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 13:21:33] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 13:23:04] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 13:23:04] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 13:23:04] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 13:30:07] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 13:30:07] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 13:30:07] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 13:30:09] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 13:30:09] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 13:30:09] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 13:30:52] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 13:30:52] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 13:30:52] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 15:38:45] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 15:38:45] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 15:38:45] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 15:38:45] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 15:38:56] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 15:38:56] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 15:38:56] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 15:38:56] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 15:39:55] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 15:39:55] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 15:39:55] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 16:28:05] PHP Notice:  Undefined index:  code in /home/kod2010/public_html/register.php on line 34
+[22-Jul-2010 16:28:09] PHP Notice:  Undefined variable: mesg in /home/kod2010/public_html/register.php on line 125
+[22-Jul-2010 16:28:46] PHP Notice:  Undefined index:  code in /home/kod2010/public_html/register.php on line 34
+[22-Jul-2010 16:29:36] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 16:29:36] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 16:29:36] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 16:29:36] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 16:30:55] PHP Notice:  Undefined index:  code in /home/kod2010/public_html/register.php on line 34
+[22-Jul-2010 16:30:58] PHP Notice:  Undefined variable: mesg in /home/kod2010/public_html/register.php on line 125
+[22-Jul-2010 16:32:57] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 16:32:57] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 16:32:57] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 16:32:57] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 16:43:54] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 16:43:54] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 16:43:54] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 16:51:45] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 16:51:45] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 16:51:45] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 16:51:45] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 16:53:27] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 16:53:27] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 16:53:27] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 17:01:33] PHP Warning:  file_put_contents(/home2/kodadmin/data/crontest) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/kod2010/public_html/cron_test.php on line 2
+[22-Jul-2010 17:02:02] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 17:02:02] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 17:02:02] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 17:41:40] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 17:41:40] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 17:41:40] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 17:41:40] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 17:45:52] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[22-Jul-2010 17:45:52] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 17:45:52] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 17:45:52] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 17:47:42] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[22-Jul-2010 17:47:42] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[22-Jul-2010 17:47:42] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[22-Jul-2010 23:15:53] PHP Notice:  Undefined index:  code in /home/kod2010/public_html/register.php on line 34
+[22-Jul-2010 23:15:55] PHP Notice:  Undefined variable: mesg in /home/kod2010/public_html/register.php on line 125
+[23-Jul-2010 03:03:07] PHP Notice:  Undefined index:  code in /home/kod2010/public_html/register.php on line 34
+[23-Jul-2010 03:03:17] PHP Notice:  Undefined index:  code in /home/kod2010/public_html/register.php on line 34
+[23-Jul-2010 05:46:45] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[23-Jul-2010 05:46:45] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[23-Jul-2010 05:46:45] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[23-Jul-2010 05:46:45] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[23-Jul-2010 15:18:40] PHP Notice:  Undefined index:  code in /home/kod2010/public_html/register.php on line 34
+[23-Jul-2010 15:18:42] PHP Notice:  Undefined variable: mesg in /home/kod2010/public_html/register.php on line 125
+[23-Jul-2010 15:21:00] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[23-Jul-2010 15:21:00] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[23-Jul-2010 15:21:01] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[23-Jul-2010 15:21:01] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[23-Jul-2010 15:21:11] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[23-Jul-2010 15:21:11] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[23-Jul-2010 15:21:11] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[23-Jul-2010 15:28:40] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[23-Jul-2010 15:28:40] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[23-Jul-2010 15:28:40] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[23-Jul-2010 15:30:26] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[23-Jul-2010 15:30:26] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[23-Jul-2010 15:30:26] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[23-Jul-2010 15:31:27] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[23-Jul-2010 15:31:27] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[23-Jul-2010 15:31:27] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[23-Jul-2010 15:31:27] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[23-Jul-2010 15:35:36] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[23-Jul-2010 15:35:36] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[23-Jul-2010 15:35:36] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[23-Jul-2010 15:37:34] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[23-Jul-2010 15:37:34] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[23-Jul-2010 15:37:34] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[23-Jul-2010 15:40:01] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[23-Jul-2010 15:40:01] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[23-Jul-2010 15:40:01] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[23-Jul-2010 15:40:50] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[23-Jul-2010 15:40:50] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[23-Jul-2010 15:40:50] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[23-Jul-2010 15:41:07] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[23-Jul-2010 15:41:07] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[23-Jul-2010 15:41:07] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[23-Jul-2010 15:44:56] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[23-Jul-2010 15:44:56] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[23-Jul-2010 15:44:56] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[23-Jul-2010 15:44:56] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[23-Jul-2010 15:59:22] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[23-Jul-2010 15:59:22] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[23-Jul-2010 15:59:22] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 03:41:43] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[24-Jul-2010 03:41:43] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 03:41:44] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 03:41:44] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 06:52:45] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[24-Jul-2010 06:52:45] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 06:52:46] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 06:52:46] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 07:38:06] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 07:38:06] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 07:38:06] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 07:49:51] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 07:49:53] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 07:49:53] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 08:14:50] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 08:14:50] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 08:14:50] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 08:17:01] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 08:17:01] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 08:17:01] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 08:17:52] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 08:17:52] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 08:17:52] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 08:20:52] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 08:20:52] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 08:20:52] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 08:24:20] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 08:24:20] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 08:24:20] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 08:50:49] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 08:50:50] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 08:50:50] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 09:06:57] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 09:06:57] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 09:06:57] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 09:23:36] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 09:23:37] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 09:23:37] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 09:41:17] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 09:41:17] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 09:41:17] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 09:43:28] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[24-Jul-2010 09:43:28] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 09:43:28] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 09:43:28] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 09:52:29] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 09:52:29] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 09:52:29] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 09:59:26] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 09:59:26] PHP Notice:  Use of undefined constant REMOTE_ADDR - assumed 'REMOTE_ADDR' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:01:13] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:01:13] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:01:13] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:04:12] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:04:12] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:04:12] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:05:15] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:05:15] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:05:15] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:08:11] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:08:11] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:08:11] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:12:24] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:12:24] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:12:24] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:18:06] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:18:06] PHP Notice:  Use of undefined constant REMOTE_ADDR - assumed 'REMOTE_ADDR' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:18:10] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:18:10] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:18:10] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:19:44] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:19:44] PHP Notice:  Use of undefined constant REMOTE_ADDR - assumed 'REMOTE_ADDR' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:19:50] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:19:50] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:19:50] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:20:04] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:20:04] PHP Notice:  Use of undefined constant REMOTE_ADDR - assumed 'REMOTE_ADDR' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:20:05] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:20:05] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:20:05] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:20:29] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:20:29] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:20:29] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:20:59] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:20:59] PHP Notice:  Use of undefined constant REMOTE_ADDR - assumed 'REMOTE_ADDR' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:21:03] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:21:03] PHP Notice:  Use of undefined constant REMOTE_ADDR - assumed 'REMOTE_ADDR' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:21:04] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:21:04] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:21:04] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:21:35] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:21:35] PHP Notice:  Use of undefined constant REMOTE_ADDR - assumed 'REMOTE_ADDR' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:21:40] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:21:40] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:21:40] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:22:16] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:22:16] PHP Notice:  Use of undefined constant REMOTE_ADDR - assumed 'REMOTE_ADDR' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:23:19] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:23:19] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:23:19] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:33:35] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:33:35] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:33:35] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:35:35] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:35:35] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:35:35] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:40:02] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:40:02] PHP Notice:  Use of undefined constant REMOTE_ADDR - assumed 'REMOTE_ADDR' in /home/kod2010/public_html/task.php on line 12
+[24-Jul-2010 10:40:40] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:40:40] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:40:40] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:49:04] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:49:04] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:49:04] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:49:19] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:49:19] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:49:19] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 10:59:48] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 10:59:48] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 10:59:48] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 11:14:42] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 11:14:42] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 11:14:42] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[24-Jul-2010 11:15:04] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[24-Jul-2010 11:15:04] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[24-Jul-2010 11:15:04] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 15:52:01] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[25-Jul-2010 15:52:01] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 15:52:01] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 15:52:01] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 15:52:08] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 15:52:08] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 15:52:08] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[25-Jul-2010 15:52:20] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 15:52:20] PHP Warning:  Invalid argument supplied for foreach() in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 15
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  kopalnie_zlota in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 22
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  kopalnie_zlota in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 22
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  kopalnie_zlota in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 23
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  kopalnie_zelaza in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 24
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  kopalnie_zelaza in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 24
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  kopalnie_zelaza in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 25
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  warsztaty in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 26
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  warsztaty in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 26
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  warsztaty in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 27
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  farmy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 28
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  farmy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 28
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  farmy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 29
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  koszary in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 30
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  koszary in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 30
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  koszary in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 31
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  domy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 32
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  domy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 32
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  domy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 33
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  gildie in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 34
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  gildie in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 34
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  gildie in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 35
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  straznice in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 36
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  straznice in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 36
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  straznice in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 37
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  wiezyczki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 38
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  wiezyczki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 38
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  wiezyczki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 39
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  rynki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 40
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  rynki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 40
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  rynki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 41
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  zamek in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 42
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  zamek in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 42
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  zamek in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 43
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 15:52:20] PHP Notice:  Undefined index:  nazwa in /home/kod2010/public_html/zalogowany.php on line 70
+[25-Jul-2010 16:00:05] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/kod2010/public_html/task.php on line 12
+[25-Jul-2010 16:00:05] PHP Notice:  Use of undefined constant REMOTE_ADDR - assumed 'REMOTE_ADDR' in /home/kod2010/public_html/task.php on line 12
+[25-Jul-2010 16:03:40] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:03:40] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:03:40] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:06:10] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[25-Jul-2010 16:06:10] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:06:10] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:06:10] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:06:40] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:06:40] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:06:40] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:06:41] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:06:41] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:06:41] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:08:12] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:08:12] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:08:12] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[25-Jul-2010 16:09:23] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:09:23] PHP Warning:  Invalid argument supplied for foreach() in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 15
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  kopalnie_zlota in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 22
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  kopalnie_zlota in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 22
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  kopalnie_zlota in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 23
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  kopalnie_zelaza in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 24
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  kopalnie_zelaza in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 24
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  kopalnie_zelaza in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 25
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  warsztaty in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 26
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  warsztaty in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 26
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  warsztaty in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 27
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  farmy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 28
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  farmy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 28
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  farmy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 29
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  koszary in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 30
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  koszary in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 30
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  koszary in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 31
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  domy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 32
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  domy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 32
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  domy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 33
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  gildie in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 34
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  gildie in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 34
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  gildie in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 35
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  straznice in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 36
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  straznice in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 36
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  straznice in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 37
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  wiezyczki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 38
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  wiezyczki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 38
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  wiezyczki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 39
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  rynki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 40
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  rynki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 40
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  rynki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 41
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  zamek in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 42
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  zamek in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 42
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  zamek in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 43
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:09:23] PHP Notice:  Undefined index:  nazwa in /home/kod2010/public_html/zalogowany.php on line 70
+[25-Jul-2010 16:10:06] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:10:06] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:10:06] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:11:06] PHP Notice:  Undefined index:  code in /home/kod2010/public_html/register.php on line 34
+[25-Jul-2010 16:11:59] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:11:59] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:11:59] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:12:02] PHP Notice:  Undefined index:  code in /home/kod2010/public_html/register.php on line 34
+[25-Jul-2010 16:12:05] PHP Notice:  Undefined variable: mesg in /home/kod2010/public_html/register.php on line 125
+[25-Jul-2010 16:12:23] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:12:23] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:12:23] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:12:50] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[25-Jul-2010 16:12:50] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:12:50] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:12:50] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[25-Jul-2010 16:14:13] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:14:13] PHP Warning:  Invalid argument supplied for foreach() in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 15
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  kopalnie_zlota in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 22
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  kopalnie_zlota in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 22
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  kopalnie_zlota in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 23
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  kopalnie_zelaza in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 24
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  kopalnie_zelaza in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 24
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  kopalnie_zelaza in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 25
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  warsztaty in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 26
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  warsztaty in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 26
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  warsztaty in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 27
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  farmy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 28
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  farmy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 28
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  farmy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 29
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  koszary in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 30
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  koszary in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 30
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  koszary in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 31
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  domy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 32
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  domy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 32
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  domy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 33
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  gildie in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 34
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  gildie in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 34
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  gildie in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 35
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  straznice in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 36
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  straznice in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 36
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  straznice in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 37
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  wiezyczki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 38
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  wiezyczki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 38
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  wiezyczki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 39
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  rynki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 40
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  rynki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 40
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  rynki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 41
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  zamek in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 42
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  zamek in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 42
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  zamek in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 43
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:14:13] PHP Notice:  Undefined index:  nazwa in /home/kod2010/public_html/zalogowany.php on line 70
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[25-Jul-2010 16:17:17] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:17:17] PHP Warning:  Invalid argument supplied for foreach() in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 15
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  kopalnie_zlota in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 22
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  kopalnie_zlota in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 22
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  kopalnie_zlota in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 23
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  kopalnie_zelaza in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 24
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  kopalnie_zelaza in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 24
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  kopalnie_zelaza in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 25
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  warsztaty in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 26
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  warsztaty in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 26
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  warsztaty in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 27
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  farmy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 28
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  farmy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 28
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  farmy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 29
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  koszary in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 30
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  koszary in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 30
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  koszary in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 31
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  domy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 32
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  domy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 32
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  domy in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 33
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  gildie in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 34
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  gildie in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 34
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  gildie in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 35
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  straznice in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 36
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  straznice in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 36
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  straznice in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 37
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  wiezyczki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 38
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  wiezyczki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 38
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  wiezyczki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 39
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  rynki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 40
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  rynki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 40
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  rynki in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 41
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  zamek in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 42
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  zamek in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 42
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  zamek in /home/kod2010/public_html/funkcje_infoOKsiestwie.php on line 43
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:17:17] PHP Notice:  Undefined index:  nazwa in /home/kod2010/public_html/zalogowany.php on line 70
+[25-Jul-2010 16:17:18] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:17:18] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:17:18] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:19:00] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:19:00] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:19:00] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:19:12] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:19:12] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:19:12] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:21:46] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:21:46] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:21:46] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:21:55] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:21:55] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:21:55] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:22:27] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[25-Jul-2010 16:22:27] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:22:27] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:22:27] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:22:29] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:22:29] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:22:29] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:23:16] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:23:16] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:23:16] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:24:42] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:24:42] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:24:42] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:25:20] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:25:20] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:25:20] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[25-Jul-2010 16:28:09] PHP Notice:  Undefined index:  login in /home/kod2010/public_html/login/lib.php on line 61
+[25-Jul-2010 16:28:09] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/kod2010/public_html/zalogowany.php on line 20
+[25-Jul-2010 16:28:09] PHP Notice:  Undefined variable: bon_morale in /home/kod2010/public_html/zalogowany.php on line 65
+[25-Jul-2010 16:28:09] PHP Notice:  Undefined variable: mess in /home/kod2010/public_html/zalogowany.php on line 66
+[04-Aug-2010 18:58:47] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Aug-2010 18:58:47] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-Aug-2010 19:11:04] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Aug-2010 19:11:04] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-Aug-2010 19:11:05] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Aug-2010 19:11:05] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-Aug-2010 19:11:14] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Aug-2010 19:11:14] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-Aug-2010 19:11:19] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Aug-2010 19:11:19] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-Aug-2010 19:11:26] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Aug-2010 19:11:26] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-Aug-2010 19:11:28] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Aug-2010 19:11:28] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-Aug-2010 19:11:31] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Aug-2010 19:11:31] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-Aug-2010 19:11:32] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Aug-2010 19:11:32] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-Aug-2010 19:11:33] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Aug-2010 19:11:33] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-Aug-2010 19:11:40] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Aug-2010 19:11:40] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-Aug-2010 19:11:40] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Aug-2010 19:11:40] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-Aug-2010 19:11:44] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Aug-2010 19:11:44] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[05-Aug-2010 18:38:53] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[05-Aug-2010 18:38:53] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[05-Aug-2010 18:39:06] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[05-Aug-2010 18:39:06] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[05-Aug-2010 18:39:13] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[05-Aug-2010 18:39:13] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[05-Aug-2010 19:04:13] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[05-Aug-2010 19:04:13] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[05-Aug-2010 19:15:06] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[05-Aug-2010 19:15:06] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[05-Aug-2010 19:15:11] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[05-Aug-2010 19:15:11] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[05-Aug-2010 19:15:13] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[05-Aug-2010 19:15:13] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[05-Aug-2010 19:15:16] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[05-Aug-2010 19:15:16] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[05-Aug-2010 19:15:19] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[05-Aug-2010 19:15:19] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[05-Aug-2010 19:15:20] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[05-Aug-2010 19:15:20] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[05-Aug-2010 19:15:23] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[05-Aug-2010 19:15:23] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 00:29:59] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 00:29:59] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 00:30:02] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 00:30:02] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 00:30:07] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 00:30:07] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 00:42:35] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 00:42:35] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 00:42:39] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 00:42:39] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 00:54:41] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 00:54:41] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 07:18:53] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 07:18:53] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 07:18:57] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 07:18:57] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 07:18:59] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 07:18:59] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 07:19:23] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 07:19:23] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 07:19:26] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 07:19:26] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 07:19:37] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 07:19:37] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 07:19:46] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 07:19:46] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 07:19:54] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 07:19:54] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 07:19:55] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 07:19:55] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:28:17] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:28:17] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:28:27] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:28:27] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:28:38] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:28:38] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:28:44] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:28:44] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:29:40] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:29:40] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:29:40] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:29:40] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:29:49] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:29:49] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:29:53] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:29:53] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:30:17] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:30:17] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:30:37] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:30:37] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:55:38] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:55:38] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:55:41] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:55:41] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:55:44] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:55:44] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:55:50] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:55:50] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:55:52] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:55:52] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:55:55] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:55:55] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 12:56:09] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 12:56:09] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 13:02:31] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 13:02:31] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 13:02:35] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 13:02:35] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 13:02:40] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 13:02:40] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 13:02:43] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 13:02:43] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 13:02:45] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 13:02:45] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2010 13:02:50] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[12-Aug-2010 13:02:50] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0

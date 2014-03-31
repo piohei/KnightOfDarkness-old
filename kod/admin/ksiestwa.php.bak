@@ -1,0 +1,75 @@
+<html>
+<link rel=stylesheet href="/style.css" type="text/css">
+<body bgcolor='#000000'>
+	<center>
+	<?PHP
+		include "../funkcjeBazy.php";
+		require_once('funkcje_admin.php');
+		otworz_polaczenie();
+
+	?>
+	<TABLE ALIGN="left" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100%">
+	<TR ALIGN="right">
+		<TH bgcolor='#808080' VALIGN="middle" WIDTH="10%">MENU:</TH>
+		<TH bgcolor='#808080' VALIGN="middle" WIDTH="90%">[PANEL ADMINISTRACYJNY] zalogowany : <? print $REMOTE_USER; ?><a href= '/index.php'><FONT SIZE="2" color="blue">[wyloguj]</FONT></a></TH>
+	</TR>
+	<TR ALIGN="center" VALIGN="top">
+		<TD>
+			<br><a href= 'ksiestwa.php'><FONT SIZE="3">GRACZE</FONT></a>
+		</TD>
+		<TD>
+		<form action="ksiestwa.php" method="post">
+						<table>
+							<th>SKOCZ DO</th>
+							<th>STRONY:</th>
+							<tr>
+								<td allign="right">
+									<FONT SIZE="1" COLOR="WHITE">Nr strony</FONT>
+								</td>
+								<td>
+									<input type="text" name="numer" size=2;><br>
+								</td>
+							</tr>
+								<td>
+									<input type="submit" value="skocz">
+								</td>
+
+							</tr>
+						</table>
+				</form>
+				<?PHP
+
+					if ($_GET["nieAKT"]=="true")
+					{
+						$zapytanie="delete from KSIESTWA where czy_aktywowane=0;";
+						mysql_query($zapytanie,$polaczenie);
+						print "Usunieto nieaktywowane konta.<BR>";
+					}
+
+					$nr=$_POST["numer"];
+					if ($nr==""){
+
+					    $nr=$_GET["numer"];
+					    if ($nr=="")
+						$nr=1;
+					}
+
+					if ($_GET["kogo"]!=""){
+						print "<font size=3 color='yellow'>USUNIETO ".$_GET["kogo"]."</font><br><br>";
+						usunGracza($_GET["kogo"]);
+					}
+
+					settype($nr, "integer");
+					if($nr<=0)
+						print"Wprowadz liczbe dodatnia";
+					else
+						spisKsiestw_ADMIN($nr);
+					print "<center><a href='ksiestwa.php?nieAKT=true'>USUN NIEAKTYWNE KONTA</a></center>";
+					zamknij_polaczenie();
+					print "<table width='60%'><tr align='center'><td><a href='ksiestwa.php?numer=".($nr-1<=0?$nr:$nr-1)."'><img src='/img/arrow_left_v1.jpg' border=0></a></td><td><a href='ksiestwa.php?numer=".($nr+1)."'><img src='/img/arrow_right_v1.jpg' border=0></a></td></tr></table>";
+			?>
+		</TD>
+	</TR>
+	</TABLE>
+</body>
+</html>

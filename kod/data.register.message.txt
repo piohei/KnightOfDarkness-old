@@ -1,0 +1,62 @@
+Witaj,
+
+    Wiadomo¶æ ta zosta³a wygenerowana przez system rejestracyjny gry
+"Knight of Darkness" ( <<server_address>> ). Oto dane które
+zosta³y wprowadzone do formularza rejestracyjnego:
+
+    KRÓLESTWO:  <<login>>
+    PIECZÊÆ:    <<pass>>
+
+Aby zakoñczyæ rejestracjê oraz uaktywniæ swoje konto u¿ytkownika nale-
+¿y potwierdziæ odebranie tej wiadomo¶ci klikaj±c na poni¿szy adres lub
+wpisuj±c go do pola adresu swojej przegl±darki internetowej i zatwie-
+rdziæ.
+
+Link potwierdzaj±cy rejestracjê:
+<<confirm_link>>
+
+Potwierdzenia nale¿y dokonaæ jak najszybciej poniewa¿ nieaktywowane
+konta u¿ytkowników s± co pewnien czas usuwane przez system.
+Po poprawnym zalogowaniu siê prosimy wype³niæ swoje dane w profilu i
+dokonaæ odpowiednich ustawieñ prywatno¶ci. Nie jest to jednak obowi±-
+zkowe. Przypominamy, ¿e w ka¿dej chwili mo¿esz usun±æ swoje konto ko-
+rzystaj±c z opcji 'usuñ konto' w swoim profilu.
+Zapraszamy tak¿e na forum rozwijaj±cej siê gry, które znajduje siê pod
+adresem: <<forum_address>> . W chwili obecnej zalogowanie
+siê na forum wymaga osobnej rejestarcji (pod adresem forum). Nie jest
+jednak ju¿ konieczne podawanie adresu e-mail, a rejestracja jest naty-
+chmiastowa.
+
+Je¶li nie rejestrowa³e¶ siê na stronie gry "Knight of Darkness"
+( <<server_address>> ) to najprawdopodobniej kto¶ inny poda³
+Twój adres e-mail podczas procesu rejestracji. Aby anulowaæ rejestracjê
+kliknij na poni¿szy adres lub wpisz go do swojej przegl±darki internetowej
+i zatwierd¼.
+
+Link anuluj±cy rejestracjê:
+<<cancel_link>>
+
+
+                                    Zapraszamy do gry i ¿yczymy mi³ej zabawy
+                                    Zespó³ Knight of Darkness
+                                               .
+                                              / \
+                                              | |
+                                              |.|
+                                              |.|
+                                              |:|      __
+                                            ,_|:|_,   /  )
+                                              (Oo    / _I_
+                                               +\ \  || __|
+                                                  \ \||___|
+                                                    \ /.:.\-\
+                                                     |.:. /-----\
+                                                     |___|::oOo::|
+                                                     /   |:<_T_>:|
+                                                    |_____\ ::: /
+                                                     | |  \ \:/
+                                                     | |   | |
+                                                     \ /   | \_
+                                                     / |   \___\
+                                                     `-'
+

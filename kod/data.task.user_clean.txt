@@ -1,0 +1,17 @@
+Witaj Dzielny Rycerzu!
+
+    Nie logowa³e¶ siê w "Knight of Darkness" ( <<server_address>> ) ju¿
+od ponad 90 dni. Je¶li nie chcesz ju¿ graæ to zignoruj t±
+wiadomo¶æ, a Twoje dane zostan± ca³kowicie i bezpowrotnie usuniête z
+gry. Je¿eli jednak chcesz powróciæ do gry to poprostu zaloguj siê
+na stronie <<server_address>> w ci±gu 7 dni od otrzymania tej wiadomo¶ci.
+
+Twoje królestwo: <<login>>
+Je¶li nie pamiêtasz pieczêci potrzebnej do zalogowania to skorzystaj
+z opcji "Zgubi³em pieczêæ", zostanie wygenerowana nowa pieczêæ, któr±
+otrzymasz na t± skrzynkê e-mail.
+
+UWAGA! Podczas logowania wa¿na jest wielko¶æ liter w nazwie królestwa jak
+i w pieczêci.
+
+                                                Zespó³ Knight of Darkness
